@@ -1,4 +1,4 @@
-````markdown
+
 # 👋 Hey, I'm Arya!
 
 ### 💻 Developer | 🧠 Problem Solver | 🚀 Tech Explorer
@@ -28,7 +28,6 @@ I enjoy experimenting with different technologies, building projects, and learni
 ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Zig](https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black)
 
----
 
 # 🧪 Currently Exploring:
 
@@ -73,12 +72,6 @@ I enjoy experimenting with different technologies, building projects, and learni
 # 📈 Contribution Graph:
 
 [![Arya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryaaaaaa21\&theme=github-dark\&hide_border=true)](https://github.com/Aryaaaaaa21)
-
----
-
-# 🐍 Contribution Snake:
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Aryaaaaaa21/Aryaaaaaa21/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
